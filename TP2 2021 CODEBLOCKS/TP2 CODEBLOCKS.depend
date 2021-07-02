@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1621038174 source:e:\leandro\utnfra\programacion i laboratorio i\trabajos practicos\tp2 2021 codeblocks\seoane.c
+	"Seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1621038175 e:\leandro\utnfra\programacion i laboratorio i\trabajos practicos\tp2 2021 codeblocks\seoane.h
+
+1621038176 source:e:\leandro\utnfra\programacion i laboratorio i\trabajos practicos\tp2 2021 codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"Seoane.h"
+
+1621028346 e:\leandro\utnfra\programacion i laboratorio i\trabajos practicos\tp2 2021 codeblocks\arrayemployees.h
+
+1625205331 source:e:\leandro\utnfra\programacion i laboratorio i\trabajos practicos\tp2 2021 codeblocks\arrayemployees.c
+	"ArrayEmployees.h"
+	"Seoane.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
